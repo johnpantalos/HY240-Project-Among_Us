@@ -18,7 +18,6 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <stack>
-#include <stack>
 #include <iostream>
 using namespace std;
 
